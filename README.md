@@ -1,4 +1,4 @@
-# Express Clustered API Example
+## Implementing horizontal scaling 
 
 This project demonstrates how to use the **cluster** module with **Express** to create a web server that takes advantage of multi-core systems. Each CPU core runs a separate worker process to handle incoming requests, improving the overall performance and reliability of the application.
 
